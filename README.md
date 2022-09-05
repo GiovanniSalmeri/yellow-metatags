@@ -2,7 +2,7 @@ Metatags 0.8.16
 =================
 Generic meta data.
 
-<p align="center"><img src="metatags-screenshot.png?raw=true" width="795" height="420" alt="Screenshot"></p>
+<p align="center"><img src="metatags-screenshot.png?raw=true" alt="Screenshot"></p>
 
 ## How to add meta data
 
