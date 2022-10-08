@@ -8,7 +8,7 @@ Generic meta data.
 
 This extension generates additional meta data (for example `Robots` or `Googlebot`) through the page settings at the top of a page.
 
-If you need the same meta data for all the pages, it is more convenient to add them in the HTML header, for example in file `system/layouts/header.html`. Meta data for social media sites are best added with the extension [Meta](https://github.com/datenstrom/yellow-extensions/tree/master/source/meta).
+If you need the same meta data for all the pages, it is more convenient to add them in the HTML header, for example in file `system/layouts/header.html`. Meta data for social media sites are best added with the extension [Meta](https://github.com/annaesvensson/yellow-meta).
 
 ## Example
 
