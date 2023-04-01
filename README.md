@@ -4,13 +4,17 @@ Generic meta data.
 
 <p align="center"><img src="metatags-screenshot.png?raw=true" alt="Screenshot"></p>
 
+## How to install an extension
+
+[Download ZIP file](https://github.com/GiovanniSalmeri/yellow-metatags/archive/main.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
+
 ## How to add meta data
 
 This extension generates additional meta data (for example `Robots` or `Googlebot`) through the page settings at the top of a page.
 
 If you need the same meta data for all the pages, it is more convenient to add them in the HTML header, for example in file `system/layouts/header.html`. Meta data for social media sites are best added with the extension [Meta](https://github.com/annaesvensson/yellow-meta).
 
-## Example
+## Examples
 
 Content file with meta data:
 
@@ -28,14 +32,10 @@ Content file with meta data:
 
 ## Settings
 
-The following setting can be configured in file `system/extensions/yellow-system.ini`:
+The following settings can be configured in file `system/extensions/yellow-system.ini`:
 
 `Metatags` (default: `color-scheme, google, googlebot, referrer, robots, theme-color`) = names recognised in the page settings  
 
-## Installation
-
-[Download extension](https://github.com/GiovanniSalmeri/yellow-metatags/archive/main.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
-
 ## Developer
 
-Giovanni Salmeri. [Get help](https://datenstrom.se/yellow/help/)
+Giovanni Salmeri. [Get help](https://datenstrom.se/yellow/help/).
