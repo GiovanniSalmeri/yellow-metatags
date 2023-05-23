@@ -34,7 +34,7 @@ Content file with meta data:
 
 The following settings can be configured in file `system/extensions/yellow-system.ini`:
 
-`Metatags` (default: `color-scheme, google, googlebot, referrer, robots, theme-color`) = names recognised in the page settings  
+`Metatags` = names recognised in the page settings  
 
 ## Developer
 
