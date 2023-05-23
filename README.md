@@ -1,6 +1,6 @@
 Metatags 0.8.16
 =================
-Generic meta data.
+Generic meta tags.
 
 <p align="center"><img src="metatags-screenshot.png?raw=true" alt="Screenshot"></p>
 
@@ -8,11 +8,11 @@ Generic meta data.
 
 [Download ZIP file](https://github.com/GiovanniSalmeri/yellow-metatags/archive/main.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
 
-## How to add meta data
+## How to add meta tags
 
-This extension generates additional meta data (for example `Robots` or `Googlebot`) through the page settings at the top of a page.
+Add meta tags (for example `Robots` or `Googlebot`) in a [page setting](https://github.com/annaesvensson/yellow-core#settings-page) at the top of a page.
 
-If you need the same meta data for all the pages, it is more convenient to add them in the HTML header, for example in file `system/layouts/header.html`. Meta data for social media sites are best added with the extension [Meta](https://github.com/annaesvensson/yellow-meta).
+If you need the same meta tags for all the pages, it is more convenient to add them in the HTML header, for example in file `system/layouts/header.html`. Meta tags for social media sites are best added with the extension [Meta](https://github.com/annaesvensson/yellow-meta).
 
 ## Examples
 
@@ -32,9 +32,9 @@ Content file with meta data:
 
 ## Settings
 
-The following settings can be configured in file `system/extensions/yellow-system.ini`:
+The following setting can be configured in file `system/extensions/yellow-system.ini`:
 
-`Metatags` = names recognised in the page settings  
+`Metatags` = a comma separated list of meta tags recognised  
 
 ## Developer
 
