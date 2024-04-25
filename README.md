@@ -1,5 +1,5 @@
-Metatags 0.8.16
-=================
+# Metatags 0.9.1
+
 Generic meta tags.
 
 <p align="center"><img src="SCREENSHOT.png" alt="Screenshot"></p>
